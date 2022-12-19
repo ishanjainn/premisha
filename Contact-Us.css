@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/pexels-daniel-smyth-8956313.jpg");
+  background-image: url("images/20190909_104127.jpg");
   background-position: 50% 50%;
   min-height: 461px;
 }
@@ -17,6 +17,7 @@
 
 .u-section-1 .u-text-1 {
   font-size: 6rem;
+  text-shadow: -2px -2px 8px rgba(26,26,26,1);
   margin: 84px 0 0 20px;
 }
 
@@ -26,47 +27,43 @@
   border-style: none;
   font-weight: 700;
   text-transform: uppercase;
-  margin: 29px auto 0 288px;
+  margin: 45px auto 0 487px;
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    min-height: 380px;
-  }
-
   .u-section-1 .u-group-1 {
-    width: calc(((100% - 1140px) / 2) + 873px);
-    margin-top: 86px;
-    margin-bottom: -23px;
+    width: 588px;
+    min-height: 374px;
     height: auto;
+    margin: 70px calc(((100% - 940px) / 2) + 164px) 17px auto;
   }
 
   .u-section-1 .u-container-layout-1 {
     padding-left: 16px;
     padding-right: 16px;
+    padding-bottom: 0;
   }
 
   .u-section-1 .u-text-1 {
-    position: relative;
+    width: auto;
     margin-top: 60px;
     margin-left: 16px;
   }
 
   .u-section-1 .u-btn-1 {
-    position: relative;
-    margin-bottom: 60px;
+    margin-top: 44px;
+    margin-right: 194px;
+    margin-left: auto;
   }
 }
 
 @media (max-width: 991px) {
-   .u-section-1 {
-    min-height: 291px;
-  }
-
   .u-section-1 .u-group-1 {
-    width: calc(((100% - 1140px) / 2) + 790px);
-    margin-top: 151px;
-    margin-bottom: 75px;
+    width: 471px;
+    min-height: 352px;
+    margin-top: 87px;
+    margin-right: calc(((100% - 720px) / 2) + 132px);
+    margin-bottom: 22px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -75,26 +72,23 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 45px;
-    margin-left: 21px;
     font-size: 4.5rem;
+    margin-top: 78px;
+    margin-right: 6px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-bottom: 45px;
+    margin-top: 40px;
+    margin-left: 160px;
   }
 }
 
 @media (max-width: 767px) {
-   .u-section-1 {
-    min-height: 218px;
-  }
-
   .u-section-1 .u-group-1 {
     width: 433px;
-    margin-top: 103px;
-    margin-bottom: 103px;
-    margin-left: calc(((100% - 1140px) / 2) + 300px);
+    margin-top: 97px;
+    margin-right: calc(((100% - 540px) / 2) + 38px);
+    margin-bottom: 0;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -102,26 +96,25 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 84px;
+    margin-top: 79px;
     margin-left: 9px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-bottom: 0;
-    margin-left: 156px;
+    margin-top: 58px;
+    margin-right: 158px;
+    margin-left: 141px;
   }
 }
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 137px;
+    min-height: 529px;
   }
 
   .u-section-1 .u-group-1 {
     width: 340px;
-    margin-top: 107px;
-    margin-bottom: 10px;
-    margin-left: calc(((100% - 340px) / 2) + -23px);
+    margin-right: calc(((100% - 340px) / 2));
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -130,14 +123,15 @@
 
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
-    width: auto;
     margin-top: 198px;
+    margin-right: 0;
     margin-left: 6px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 79px;
-    margin-left: 94px;
+    margin-top: 39px;
+    margin-right: 91px;
+    margin-left: auto;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 51px;
@@ -473,7 +467,7 @@
   .u-section-4 .u-text-1 {
     font-size: 2.25rem;
     width: auto;
-    margin-top: 12px;
+    margin-top: 25px;
     margin-left: 0;
     margin-right: 0;
   }
@@ -661,6 +655,7 @@
     width: 270px;
     height: 167px;
     margin-top: -30px;
+    margin-right: 125px;
   }
 
   .u-section-4 .u-layout-cell-4 {
@@ -671,7 +666,6 @@
     width: 343px;
     height: 213px;
     margin-top: -116px;
-    margin-left: 93px;
   }
 
   .u-section-4 .u-layout-cell-5 {
@@ -681,8 +675,7 @@
   .u-section-4 .u-image-5 {
     width: 248px;
     height: 193px;
-    margin-top: -135px;
-    margin-left: 138px;
+    margin-top: -136px;
   }
 }
 
@@ -756,7 +749,6 @@
     width: 276px;
     height: 157px;
     margin-top: -59px;
-    margin-left: auto;
     margin-bottom: -98px;
   }
 }

@@ -1150,6 +1150,7 @@
 .u-section-6 .u-image-3 {
   min-height: 219px;
   background-image: url("images/20190909_104256.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-image-4 {
@@ -1211,7 +1212,6 @@
 
   .u-section-6 .u-image-3 {
     min-height: 288px;
-    background-position: 50% 50%;
   }
 
   .u-section-6 .u-image-4 {
