@@ -38769,8 +38769,16 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -43px;
     margin-right: 33px;
   }
-}
 
+  .u-header .u-nav-1 {
+    font-weight: 700;
+  }
+}
+@media (max-width: 991px) {
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
+  }
+}
 @media (max-width: 767px) {
   .u-header .u-image-1 {
     width: auto;
