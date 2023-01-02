@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/20190909_104127.jpg");
+  background-image: url("images/3707613a-1e23-4b58-9b97-895841288c9b.jpg");
   background-position: 50% 50%;
   min-height: 461px;
 }
@@ -140,14 +140,14 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 1021px;
+  min-height: 877px;
 }
 
 .u-section-3 .u-group-1 {
   width: 741px;
   min-height: 364px;
   height: auto;
-  margin: 77px -239px 0 auto;
+  margin: 60px -239px 0 auto;
 }
 
 .u-section-3 .u-image-1 {
@@ -169,11 +169,6 @@
   margin: 51px 38px -468px 33px;
 }
 
-.u-section-3 .u-text-2 {
-  margin-left: 0;
-  font-size: 1.375rem;
-}
-
 .u-section-3 .u-btn-1 {
   letter-spacing: 0px;
   background-image: none;
@@ -189,7 +184,7 @@
   width: 741px;
   height: auto;
   min-height: 624px;
-  margin: -141px auto 60px -220px;
+  margin: -265px auto 60px -238px;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -199,7 +194,7 @@
 .u-section-3 .u-image-2 {
   width: 193px;
   height: 193px;
-  background-image: url("images/business-sucessful-businessman-working-with-laptop-using-computer-smiling-standing.jpg");
+  background-image: url("images/1e675e91-e2af-4de2-92e7-662cf301c35a.jpg");
   background-position: 50% 50%;
   margin: -58px auto 0;
 }
@@ -215,7 +210,7 @@
   padding: 15px 55px 17px 53px;
 }
 
-.u-section-3 .u-text-3 {
+.u-section-3 .u-text-2 {
   letter-spacing: normal;
   font-weight: 700;
   font-family: Montserrat, sans-serif;
@@ -224,7 +219,7 @@
   margin: 30px 20px 0;
 }
 
-.u-section-3 .u-text-4 {
+.u-section-3 .u-text-3 {
   font-size: 1.875rem;
   line-height: 1.8;
   background-image: none;
@@ -263,7 +258,7 @@
     padding-bottom: 6px;
   }
 
-  .u-section-3 .u-text-3 {
+  .u-section-3 .u-text-2 {
     font-size: 1.5rem;
     width: auto;
     margin-top: 27px;
@@ -271,7 +266,7 @@
     margin-left: 16px;
   }
 
-  .u-section-3 .u-text-4 {
+  .u-section-3 .u-text-3 {
     width: auto;
     margin-top: 27px;
     margin-right: 21px;
@@ -282,7 +277,7 @@
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 824px;
+    min-height: 1004px;
   }
 
   .u-section-3 .u-group-1 {
@@ -307,7 +302,7 @@
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 893px;
+    min-height: 1039px;
   }
 
   .u-section-3 .u-group-1 {
@@ -333,12 +328,12 @@
     padding-right: 10px;
   }
 
-  .u-section-3 .u-text-3 {
+  .u-section-3 .u-text-2 {
     margin-left: 0;
     margin-right: 4px;
   }
 
-  .u-section-3 .u-text-4 {
+  .u-section-3 .u-text-3 {
     margin-left: 9px;
     margin-right: 3px;
   }
@@ -346,22 +341,23 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1408px;
+    min-height: 970px;
   }
 
   .u-section-3 .u-group-1 {
     width: 340px;
+    margin-top: 494px;
   }
 
   .u-section-3 .u-group-2 {
     width: 340px;
   }
 
-  .u-section-3 .u-text-3 {
+  .u-section-3 .u-text-2 {
     margin-right: 0;
   }
 
-  .u-section-3 .u-text-4 {
+  .u-section-3 .u-text-3 {
     font-size: 1rem;
     margin-left: 0;
     margin-right: 0;
@@ -681,11 +677,11 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 963px;
+    min-height: 1251px;
   }
 
   .u-section-4 .u-group-1 {
-    margin-top: 16px;
+    margin-top: 304px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
