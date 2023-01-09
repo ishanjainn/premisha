@@ -206,7 +206,7 @@
   font-size: 1rem;
   border-style: none;
   font-weight: 700;
-  margin: 42px auto 0 95px;
+  margin: 42px auto 0;
   padding: 15px 55px 17px 53px;
 }
 
@@ -259,7 +259,6 @@
 
   .u-section-3 .u-btn-2 {
     margin-top: 35px;
-    margin-left: auto;
     padding-top: 5px;
     padding-bottom: 6px;
   }
